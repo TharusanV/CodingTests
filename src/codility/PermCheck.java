@@ -1,4 +1,4 @@
-package tests;
+package codility;
 
 import java.util.Arrays;
 import java.util.HashSet;

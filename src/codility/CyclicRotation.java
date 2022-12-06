@@ -1,4 +1,4 @@
-package tests;
+package codility;
 
 public class CyclicRotation {
 	
